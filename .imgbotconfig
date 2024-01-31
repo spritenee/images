@@ -1,4 +1,3 @@
 {
-    "schedule": "daily" // daily|weekly|monthly
-    "aggressiveCompression": "false" // true|false
+    "schedule": "daily"
 }
